@@ -1,6 +1,6 @@
 # Final Project - The Rumos Bank Marketing Campaign
 
-Este projecto foi desenvolvido no âmbito do unidade curricular Fundamentos de Machine Learning.
+Este projecto foi desenvolvido no âmbito do unidade curricular Fundamentos de Machine Learning pertencente à pós-graduação em Data Science.
 
 O objetivo é criar um modelo que ajude a equipa de marketing de um banco a seleccionar os melhores candidatos a ser alvo de uma campanha de depósitos a prazo, reduzindo assim o custo do negócio.
 
